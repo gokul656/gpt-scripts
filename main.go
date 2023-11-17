@@ -23,8 +23,8 @@ const (
 	endRange   = int(startRange + 1)
 	url        = "https://api.openai.com/v1/chat/completions"
 	model      = "gpt-4-0613"
-	outfile    = "output.json"
-	infile     = "input.json"
+	outfile    = "json/output.json"
+	infile     = "json/input.json"
 )
 
 func init() {
@@ -40,7 +40,7 @@ func main() {
 	defer func() {
 		fmt.Println("Time took:", time.Since(start))
 		if r := recover(); r != nil {
-			fmt.Println("Recovering...")
+			fmt.Println("Recovering from...", r)
 		}
 		saveToFile(outfile)
 	}()
@@ -141,8 +141,13 @@ func createRequest(count int, question *Question, output chan *Response[*Questio
 	function["model"] = model
 	function["messages"] = []interface{}{messages}
 
-	file, _ := os.ReadFile("function.json")
-	err := json.Unmarshal(file, &function)
+	file, err := os.ReadFile("json/function.json")
+	if err != nil {
+		output <- buildError("unable to read file", err)
+		return
+	}
+
+	err = json.Unmarshal(file, &function)
 	if err != nil {
 		output <- buildError("unable to unmarhsal", err)
 		return
