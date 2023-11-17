@@ -1,0 +1,1932 @@
+[
+    {
+        "title": "Problems involving fractions",
+        "topicName": "Fractions, decimal and percentage",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the sum of 1 and 2?",
+        "answer": "3",
+        "values": "",
+        "hints": "Add the given numbers."
+    },
+    {
+        "title": "Quiz: Finding unit vectors 3D",
+        "topicName": "Unit vectors",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is $126$ divided by $3$?",
+        "answer": "The correct answer is $42$.",
+        "values": "",
+        "hints": "Divide $126$ by $3$ to get the answer."
+    },
+    {
+        "title": "Quiz: Integration - General method (1)",
+        "topicName": "Integration – General Methods",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "In a grid of squares with 3 rows and 3 columns, how many squares are there in total?",
+        "answer": "The correct answer is 9.",
+        "values": "",
+        "hints": "First, find the total number of squares. Then divide it by the number of squares in each column."
+    },
+    {
+        "title": "Quiz: Integrals of the form f'(x) / f(x) (3)",
+        "topicName": "Integrals of the form : f'(x) / f(x)",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Find the least common multiple of 6 and 9.",
+        "answer": "The correct answer is 18",
+        "values": "",
+        "hints": "First, find the multiples of 6 and 9. The least common multiple is the smallest multiple that is exactly divisible by every one of the numbers."
+    },
+    {
+        "title": "Quiz: Negative and fractional indices",
+        "topicName": "Number",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the total number of degrees in a quadrilateral?",
+        "answer": "The total number of degrees in a quadrilateral is 360 degrees",
+        "values": "",
+        "hints": "A quadrilateral is a four-sided polygon. The sum of the interior angles of any quadrilateral must equal 360 degrees."
+    },
+    {
+        "title": "Exam Style Question: Binomial Distribution 1",
+        "topicName": "Exam Style Questions - Binomial Distribution",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the cube root of 729?",
+        "answer": "9",
+        "values": "",
+        "hints": "To find the answer, calculate the cube root of 729."
+    },
+    {
+        "title": "Quiz: Integrals of the form f'(x) / f(x) (3)",
+        "topicName": "Integrals of the form : f'(x) / f(x)",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the area of a square with side length 2?",
+        "answer": "4",
+        "values": "",
+        "hints": "By using the properties of squares!"
+    },
+    {
+        "title": "Quiz: Application of completing the square (2)",
+        "topicName": "Applications of completing the square",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If I drive 100 miles at 20 miles per hour, how long will it take me?",
+        "answer": "The correct answer is 5 hours.",
+        "values": "",
+        "hints": "Hint: Use the speed = distance/time equation. Here, the distance is 100 miles and the speed is 20 miles per hour."
+    },
+    {
+        "title": "Quiz: Problems involving fractions",
+        "topicName": "Fractions and decimals",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the value of $2 + 2$?",
+        "answer": "The correct answer is 4",
+        "values": "",
+        "hints": "To solve this question, you need to use the concept of simplification of an expression."
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations by elimination - Same x terms",
+        "topicName": "Same x terms",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the sum of 2 and 3?",
+        "answer": "The correct answer is 5",
+        "values": "",
+        "hints": "Add 2 and 3 to get the answer"
+    },
+    {
+        "title": "Quiz: Logarithms – Change of Base",
+        "topicName": "Logarithms – Change of Base",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "How many edges does a cube have?",
+        "answer": "The cube has 12 edges",
+        "values": "",
+        "hints": "In a cube, there are 6 faces, 8 vertices, and 12 edges"
+    },
+    {
+        "title": "Quiz: Sine \u0026 Cosine Rules applied to Bearings",
+        "topicName": "Bearings – Applications of the sine and cosine rules",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the result of 7 + 7?",
+        "answer": "The correct answer is 14.",
+        "values": "",
+        "hints": "Hint: Add the two numbers together."
+    },
+    {
+        "title": "Quiz: Factorising by grouping",
+        "topicName": "Factorising by grouping",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the result of 40 - 8?",
+        "answer": "32",
+        "values": "",
+        "hints": "Find the difference between 40 and 8."
+    },
+    {
+        "title": "Quiz: Multiplying numbers in standard form",
+        "topicName": "Quiz: Standard form",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the square root of the difference between $36$ and $9$?",
+        "answer": "27",
+        "values": "",
+        "hints": "Start by subtracting $9$ from $36$, then square root the result."
+    },
+    {
+        "title": "Quiz: Integration by substitution - Square root type (2)",
+        "topicName": "Square root types",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the result when you subtract 60 from 75?",
+        "answer": "42",
+        "values": "",
+        "hints": "Recall that the operation performed in the original equation is subtraction. Try the same operation with the new numbers."
+    },
+    {
+        "title": "Quiz: Calculating experimental probabilities",
+        "topicName": "Probability and statistics",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is $\\frac{168}{4}$?",
+        "answer": "42",
+        "values": "",
+        "hints": "Divide 168 by 4"
+    },
+    {
+        "title": "Quiz: Trigonometry - SOHCAHTOA Finding the missing length (3)",
+        "topicName": "Finding the length of a side",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Calculate the sum of the numbers $123, 456, 789$",
+        "answer": "123",
+        "values": "",
+        "hints": "The hints can be used to solve the problem"
+    },
+    {
+        "title": "Exam Style Question: Binomial Distribution 1",
+        "topicName": "Exam Style Questions - Binomial Distribution",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "A student has 4 notebooks. Each notebook has 24 pages. How many pages are there in total?",
+        "answer": "The notebook has 96 pages.",
+        "values": "",
+        "hints": "First find out how many pages are there in one notebook. Then multiply the number of pages in one notebook by the total number of notebooks the student has."
+    },
+    {
+        "title": "Quiz: The chord of a circle",
+        "topicName": "Quiz: Tangents and Chords",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If 7 is added to the difference of 21 and 7, what is the result? ",
+        "answer": "14",
+        "values": "",
+        "hints": "First, find the difference between the two numbers. Then, add that to the smaller number."
+    },
+    {
+        "title": "Quiz: Finding unit vectors 3D",
+        "topicName": "Unit vectors",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If Tom has 7 apples and his friend gives him 5 more, how many apples does Tom have now?",
+        "answer": "The correct answer is 12.",
+        "values": "",
+        "hints": "Hint: Use addition to solve this problem."
+    },
+    {
+        "title": "Quiz: Distance between two points",
+        "topicName": "Distance between two points",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If 10 = x + 7, then what is the value of x?",
+        "answer": "x=3",
+        "values": "",
+        "hints": "To find the value of x, we need to subtract 7 from both sides of the equation."
+    },
+    {
+        "title": "Quiz: Identifying the invariance achieved by combinations of rotations, reflections and translations",
+        "topicName": "Quiz: Combined transformations",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Solve: $2 + 2 \\times 2 - 1$",
+        "answer": "3",
+        "values": "",
+        "hints": "Remember the order of operations: Parentheses, Exponents, Multiplication and Division, Addition and Subtraction (PEMDAS)"
+    },
+    {
+        "title": "Quiz: Integration by substitution (2)",
+        "topicName": "Integration by substitution",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Calculate: $ n[20+10] = ? $",
+        "answer": "30 ",
+        "values": "",
+        "hints": "No need of calculating $ n[20+10] $, It is $ n[30] $"
+    },
+    {
+        "title": "Quiz: Using a calculator",
+        "topicName": "Calculator use",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "There is a histogram with 10 bins. The height of each bar corresponds to the number of data points in that bin. If three of the bins have a bar height of 2, how many bins have a bar height of 2?",
+        "answer": "The correct answer is 3",
+        "values": "",
+        "hints": "To solve the problem, you need to count the number of bins that have a bar height of 2"
+    },
+    {
+        "title": "Quiz: Volume and height of a pyramid",
+        "topicName": "Volume of a pyramid",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Calculate the area of a rectangle with length 5 cm and width 5 cm.",
+        "answer": "25",
+        "values": "",
+        "hints": "Use the formula of finding the area of a rectangle, which is length multiplied by the width."
+    },
+    {
+        "title": "Quiz: Integration by substitution (2)",
+        "topicName": "Integration by substitution",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a number increases by 20% and the result is 7, what is the original number?",
+        "answer": "6",
+        "values": "",
+        "hints": "To find the increased number, subtract the original number from the new number."
+    },
+    {
+        "title": "Quiz: Application of completing the square (2)",
+        "topicName": "Applications of completing the square",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A tank has a volume of 500 cubic meters, and a base area of 50 square meters. What is the depth of the tank?",
+        "answer": "The depth of the tank is 10 meters.",
+        "values": "",
+        "hints": "Given that the volume of the tank is 500 cubic meters and the base area is 50 square meters, the depth of the tank can be found by dividing the volume by the base area."
+    },
+    {
+        "title": "Problems involving fractions",
+        "topicName": "Fractions, decimal and percentage",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Is it true that arrays are better at adding and removing elements in the middle than linked lists?",
+        "answer": "True",
+        "values": "",
+        "hints": "Remember that an array is a contiguous allocation of memory and is mostly used for homogeneous data types. On the other hand, a linked list is a sequence of data structures, which are connected together via links. Linked lists are used for heterogeneous data types."
+    },
+    {
+        "title": "Quiz: Using a calculator",
+        "topicName": "Calculator use",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "{\"type\":\"text\",\"content\":\"What is the speed of light in vacuum?\"}",
+        "answer": "{\"type\":\"text\",\"content\":\"3 \\times 10^{8} m/s\"}",
+        "values": "",
+        "hints": "[{\"type\":\"text\",\"content\":\"Speed of light in a vacuum.\"}]"
+    },
+    {
+        "title": "Quiz: Integration - General method (1)",
+        "topicName": "Integration – General Methods",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If a cube has an edge length of 8 cm, what would be half of the cube's edge length?",
+        "answer": "Use half of the cube's edge length, which is half of 4 cm because the edge length of the cube is 8 cm.",
+        "values": "",
+        "hints": "You need to find a cube's edge length, which is half of the cube's entire edge length. The entire edge length of the cube is given as 8 cm."
+    },
+    {
+        "title": "Quiz: Tangents and chords of tangents",
+        "topicName": "Quiz: Equation of a circle and tangent to a circle",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "John had 35 candies. He ate 7 of them. How many candies does John have left?",
+        "answer": "John has 28 candies left.",
+        "values": "",
+        "hints": "Subtract the number of candies eaten by John from the total number of candies he had at first."
+    },
+    {
+        "title": "Quiz: Integration by substitution - Square root type (2)",
+        "topicName": "Square root types",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If the length of a rectangle is 5 meters and the width is 1 meter, what is the area of the rectangle?",
+        "answer": "The correct answer is 5",
+        "values": "",
+        "hints": "Hint: Use the formula $Area = length \times width$"
+    },
+    {
+        "title": "Quiz: Distance between two points",
+        "topicName": "Distance between two points",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is 5 to the power of 3?",
+        "answer": "125",
+        "values": "",
+        "hints": "First, find the number changed to the power of 3. Since 5 cubed is 125, that's the answer."
+    },
+    {
+        "title": "Quiz: Logarithms – Change of Base",
+        "topicName": "Logarithms – Change of Base",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the sum of the angles in a triangle?",
+        "answer": "The sum of the angles is $180^{\\circ}$",
+        "values": "",
+        "hints": "Remember that the sum of the angles in a triangle is always $180^{\\circ}$"
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations by elimination - Same x terms",
+        "topicName": "Same x terms",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A car is travelling at a speed of 1800 m/s. Suddenly the driver sees a cat and applies the brakes. The car comes to a stand still in 15 seconds. What is the acceleration of the car?",
+        "answer": "The correct answer is 450",
+        "values": "",
+        "hints": "First, use the formula Acceleration = Final velocity - Initial velocity / Time. Apply the given values into the formula. At the end, you will get the correct answer"
+    },
+    {
+        "title": "Quiz: Multiplying numbers in standard form",
+        "topicName": "Quiz: Standard form",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "The sum of two angles in a triangle is $90^\\circ$. What is the measure of the third angle?",
+        "answer": "3",
+        "values": "",
+        "hints": "Use the fact that the sum of angles in a triangle equals 180 degrees."
+    },
+    {
+        "title": "Quiz: Integration of trigonometric functions by substitution with limits",
+        "topicName": "Integration of trigonometric functions by substitution with limits",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If the radius of a circle is 9 inches, what is its diameter?",
+        "answer": "The correct answer is 18 inches.",
+        "values": "",
+        "hints": "Remember that the diameter is twice the radius. So, if the radius is 9 inches, the diameter would be 18 inches."
+    },
+    {
+        "title": "Quiz: Using a calculator",
+        "topicName": "Calculator use",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a cycle graph consists of 27 vertices, what is the total number of edges in the graph?",
+        "answer": "27",
+        "values": "",
+        "hints": "The total number of edges in an undirected cycle graph with n vertices is equal to the number of vertices i.e., n."
+    },
+    {
+        "title": "Quiz: Modelling with quadratic equations",
+        "topicName": "Quiz: Modelling of quadratic equations",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If there are 20 classes in a school and in each class there 20 students, how many students are there in the school?",
+        "answer": "The correct answer is 400.",
+        "values": "",
+        "hints": "You can find the solution by multiplying the number of classes by the number of students in each class."
+    },
+    {
+        "title": "Quiz: Problems involving fractions",
+        "topicName": "Fractions and decimals",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If Lucy has 45 apples, 20 oranges, and 10 bananas, how many pieces of fruits does she has?",
+        "answer": "75",
+        "values": "",
+        "hints": "To find the total, add the number of apples, oranges, and bananas"
+    },
+    {
+        "title": "Quiz: Uniform rods in equilibrium - forces and lengths",
+        "topicName": "Static rigid bodies",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "The data samples categorized into A, B, and C are 2, 3, and 5 respectively, what is the total number of data samples?",
+        "answer": "The total number of data samples is 10.",
+        "values": "",
+        "hints": "Add all the different categories of data samples."
+    },
+    {
+        "title": "Quiz: Factorising by grouping",
+        "topicName": "Factorising by grouping",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If $2\\log x - \\log 4 = 0$, find the value of $x$.",
+        "answer": "The correct answer is $-2$.",
+        "values": "",
+        "hints": "Use the property of logarithms $\\log_a b = \\log_c b / \\log_c a $ to simplify the expression and solve for the unknown."
+    },
+    {
+        "title": "Quiz: Finding unit vectors 3D",
+        "topicName": "Unit vectors",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If the number is 10, what will be the answer after completing these operations on the given number?",
+        "answer": "2",
+        "values": "",
+        "hints": "Decrease the number by 2.\nMultiply the result by 3.\nNow, add 11.\nFinally, divide the result by 3 to get the answer."
+    },
+    {
+        "title": "Quiz: Integration - General method (1)",
+        "topicName": "Integration – General Methods",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If the length of a rectangle is 14 meters, and the width is 15 meters, what is the area of the rectangle?",
+        "answer": "The area of the given rectangle is 210 square meters.",
+        "values": "",
+        "hints": "To find the area of a rectangle, multiply the length by the width."
+    },
+    {
+        "title": "Quiz: Trigonometry - SOHCAHTOA Finding the missing length (3)",
+        "topicName": "Finding the length of a side",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a man can build a wall in 10 days and each day he builds 10 feet, how many total feet of wall can he build in 800 days?",
+        "answer": "80",
+        "values": "",
+        "hints": "To find the number of days it would take to complete the work, you would need to divide the total work by the amount of work done per day. In this case, $\\frac{800}{10} = 80$ days."
+    },
+    {
+        "title": "Quiz: Sine \u0026 Cosine Rules applied to Bearings",
+        "topicName": "Bearings – Applications of the sine and cosine rules",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "A car is travelling at a speed of 20 m/s and gradually speeds up to 60 m/s over 10 seconds. What is the average acceleration of the car?",
+        "answer": "The correct answer is 4",
+        "values": "",
+        "hints": "You can solve this problem using the following steps: \n1. First, you should determine the equation of motion. \n2. Second, determine the acceleration and initial velocity. \n3. Lastly, solve for the time."
+    },
+    {
+        "title": "Quiz: Integration of trigonometric functions by substitution with limits",
+        "topicName": "Integration of trigonometric functions by substitution with limits",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If 5x = 30, find the value of x.",
+        "answer": "The correct answer is 30.",
+        "values": "",
+        "hints": "First, write the given equation: 5x = 30. To solve for x, divide both sides by 5. So, x = 30 / 5."
+    },
+    {
+        "title": "Quiz: Calculating a percentage change",
+        "topicName": "Calculating a percentage change",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the product of $ \\frac{6}{8} $ and $ \\frac{7}{9} $ ?",
+        "answer": "7",
+        "values": "",
+        "hints": "Multiply the given fractions.\n\n$ \\frac{6}{8} \\times \\frac{7}{9} = x $"
+    },
+    {
+        "title": "Quiz: Sine \u0026 Cosine Rules applied to Bearings",
+        "topicName": "Bearings – Applications of the sine and cosine rules",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "The volume of a cube is 216 cubic units. What is the length of the side of the cube?",
+        "answer": "The correct answer is 6.",
+        "values": "",
+        "hints": "Use the formula for the volume of a cube, which is V = a^3. Here, a is the length of the side of the cube."
+    },
+    {
+        "title": "Quiz: Modelling with quadratic equations",
+        "topicName": "Quiz: Modelling of quadratic equations",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If Anna has 7 units of goods and she gave all 7 units of goods to Emma, how many units of goods does Anna have now?",
+        "answer": "The correct answer is 7 units.",
+        "values": "",
+        "hints": "Remember the algebraic equation: a-a = 0. Solve the equation with this hint."
+    },
+    {
+        "title": "Quiz: Equation of a line (alternative form)",
+        "topicName": "Equation of a line given the gradient and point",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A man walks a distance of $18$ miles in $3$ hours. What is his average speed?",
+        "answer": "The correct answer of the problem is $6$.",
+        "values": "",
+        "hints": "To solve the given problem, you have to use the formula of average speed. The formula is: $average speed = \\frac{total \\ distance}{total \\ time}$."
+    },
+    {
+        "title": "Quiz: Ratios and equations (Harder problems)",
+        "topicName": "Ratios and equations (Harder problems)",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the approximate value of the mathematical constant Pi",
+        "answer": "3.14",
+        "values": "",
+        "hints": "Use the mathematical constant Pi to find the approximation of the constant. Pi is approximately equivalent to 3.14"
+    },
+    {
+        "title": "Quiz: Ratios and equations (Harder problems)",
+        "topicName": "Ratios and equations (Harder problems)",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Jonah has 20 quarters. If one quarter is equal to 25 cents, how much money does Jonah have in total if he also has 5 dollars?",
+        "answer": "110",
+        "values": "",
+        "hints": "To find the total money, multiply the number of quarters by their value, and then add 5 dollars."
+    },
+    {
+        "title": "Quiz: Independent and mutually exclusive events using set notation",
+        "topicName": "01 Independent, dependent and mutually exclusive events",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Find the total number of divisors of 120.",
+        "answer": "The correct answer is 35.",
+        "values": "",
+        "hints": "First, find the prime factors of 120, which are 2, 2, 2, 3, 5. Then, find the product of the numbers of prime factors (5 factors)."
+    },
+    {
+        "title": "Quiz: Calculating a percentage change",
+        "topicName": "Calculating a percentage change",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the value of pi to three decimal places?",
+        "answer": "3.142",
+        "values": "",
+        "hints": "To find the value of pi, you can use the formula for the circumference of a circle. The ratio of the circumference to the diameter of any circle is pi."
+    },
+    {
+        "title": "Quiz: Tangents and chords of tangents",
+        "topicName": "Quiz: Equation of a circle and tangent to a circle",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the minimum value of the cosine function?",
+        "answer": "The minimum value is -1",
+        "values": "",
+        "hints": "Remember that the range of the cosine function is from -1 to 1. This means that the smallest value that the function can output is -1."
+    },
+    {
+        "title": "Quiz: Tangents and chords of tangents",
+        "topicName": "Quiz: Equation of a circle and tangent to a circle",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A car is traveling at a speed of 60 miles per hour. How far will the car travel after 4 hours?",
+        "answer": "The distance traveled after 4 hours is 240 miles.",
+        "values": "",
+        "hints": "Use the formula distance = speed * time. Here the speed is 60 mph and the time is 4 hours."
+    },
+    {
+        "title": "Exam Style Question: Binomial Distribution 1",
+        "topicName": "Exam Style Questions - Binomial Distribution",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If one of the angles on a straight line is 126 degrees, what would be the measurement of the other angle?",
+        "answer": "The correct answer is 54 degrees.",
+        "values": "",
+        "hints": "Use the formula for sum of the angles on a straight line which is 180 degrees. So, subtract 126 degrees from 180 degrees."
+    },
+    {
+        "title": "Quiz: Identifying the invariance achieved by rotations",
+        "topicName": "Reflections",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the radius of Earth in Kilometers?",
+        "answer": "The correct answer is 6371 Kilometers.",
+        "values": "",
+        "hints": "Earth's radius is the distance from Earth's center to its surface, straight through its center. The average radius of Earth is 6,371 kilometers."
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations by elimination - Same x terms",
+        "topicName": "Same x terms",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "There are 975 students at a school. Three-fourths of the students take the bus. The rest of the students walk. How many students walk to school?",
+        "answer": "725",
+        "values": "",
+        "hints": "First find the total number of students who attend the school. Then subtract the number of students who take the bus. The number left is the number who walk."
+    },
+    {
+        "title": "Quiz: Identifying the invariance achieved by combinations of rotations, reflections and translations",
+        "topicName": "Quiz: Combined transformations",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Nikki read a book for 1 hour and 30 minutes. How many minutes did she spend reading?",
+        "answer": "The number of minutes Nikki spent reading is 90 minutes.",
+        "values": "",
+        "hints": "Recall that 1 hour is equivalent to 60 minutes. Given that Nikki read for 1 and a half hours, you can calculate this as 1 hour + 0.5 hour = 1.5 hours. To convert this to minutes, you would multiply 1.5 by 60 (since there are 60 minutes in an hour)."
+    },
+    {
+        "title": "Quiz: Uniform rods in equilibrium - forces and lengths",
+        "topicName": "Static rigid bodies",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A pump can transfer 200 litres of water in 10 minutes. How much water does the pump transfer per minute?",
+        "answer": "The correct answer is 20 litres per minute.",
+        "values": "",
+        "hints": "To solve this problem, you should divide the total volume of the water by the amount of time it takes to pump it. In this case, you should divide 200 litres by 10 minutes. If you do that you get 20 l/min."
+    },
+    {
+        "title": "Quiz: Trigonometry - SOHCAHTOA Finding the missing length (3)",
+        "topicName": "Finding the length of a side",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If a number is multiplied by 3 and then 5 is subtracted from the result, the final answer is 10. What is the original number?",
+        "answer": "The correct answer is 15 units.",
+        "values": "",
+        "hints": "Hint: To solve this question, you need to use the basic mathematical operations such as addition, subtraction, multiplication and division."
+    },
+    {
+        "title": "Quiz: Equation of a perpendicular bisector",
+        "topicName": "Equation of a perpendicular bisector",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If the radius of a circle is 7cm and the area of a sector in that circle is 26 square cm, what is the angle of that sector?",
+        "answer": "The correct answer is 45.",
+        "values": "",
+        "hints": "To solve this question, you need to find the angle of a circle. The formula for finding an angle in a circle is Angle = (sectorArea/totalArea) * 360."
+    },
+    {
+        "title": "Quiz: Integration of trigonometric functions by substitution with limits",
+        "topicName": "Integration of trigonometric functions by substitution with limits",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "The first term of a geometric sequence is 2 and the common ratio is 3. What is the 5th term of the sequence?",
+        "answer": "The correct answer is 50.",
+        "values": "",
+        "hints": "To solve the problem, first find the common ratio of the geometric sequence. Then, use the formula for the nth term of a geometric sequence to find the desired term."
+    },
+    {
+        "title": "Quiz: Distance between two points",
+        "topicName": "Distance between two points",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the sum of the first 10 positive natural numbers?",
+        "answer": "The correct answer is 55.",
+        "values": "",
+        "hints": "To solve this problem, you first need to find the sum of the numbers from 1 to 10. The formula for the sum of the first n natural numbers is n*(n+1)/2. Substitute 10 into the formula to get the answer."
+    },
+    {
+        "title": "Quiz: Problems involving fractions",
+        "topicName": "Fractions and decimals",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "A 1.5 ohm resistor has a current of 1.1 A. How much voltage does the resistor have?",
+        "answer": "The correct answer is 1.65 volts.",
+        "values": "",
+        "hints": "Hint: Use Ohm's Law (V=IR). You are provided with the value of resistance and current. Substitute these given values into the Ohm's Law formula to calculate the voltage."
+    },
+    {
+        "title": "Quiz: Deriving and solving equations on geometric problems 1",
+        "topicName": "Quiz: Problem solving using algebra",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If a school day starts at 8:30 a.m. and finishes at 3:00 p.m., how long does it last?",
+        "answer": "The school day is 6 hours and 30 minutes.",
+        "values": "",
+        "hints": "To calculate the total length of the school day, subtract the start time from the finishing time. Remember to convert the times to minutes first."
+    },
+    {
+        "title": "Quiz: Logarithms – Change of Base",
+        "topicName": "Logarithms – Change of Base",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the sum of $\\frac{1}{5}$ and $\\frac{1}{2}$?",
+        "answer": "The sum of the fractions is $\\frac{7}{10}$.",
+        "values": "",
+        "hints": "To add the fractions, first find the least common denominator. Then add the numerators."
+    },
+    {
+        "title": "Quiz: Coefficients of parallel vectors",
+        "topicName": "02 Multiplying a vector by a scalar 2d",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the value of x if x + 5 = 35?",
+        "answer": "The correct answer is 30.",
+        "values": "",
+        "hints": "To solve this problem, you need to find the value of x satisfying the equation x + 5 = 35. First, you subtract 5 from both sides of the equation to get x = 35 - 5. Then you perform the subtraction to get x = 30."
+    },
+    {
+        "title": "Quiz: Multiplying numbers in standard form",
+        "topicName": "Quiz: Standard form",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the area of a square with side length 3?",
+        "answer": "The correct answer is 45.",
+        "values": "",
+        "hints": "The area of a square is found by squaring the length of one of its sides. So if one side equals 3, the area is $3^2$ or 9."
+    },
+    {
+        "title": "Quiz: Deriving and solving equations on geometric problems 1",
+        "topicName": "Quiz: Problem solving using algebra",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If I first divide 2575 by 85, then find the square root of the result, and finally add 59 to this result, what would be the output?",
+        "answer": "3090",
+        "values": "",
+        "hints": "Begin by dividing 2575 by 85; then, find the square root of the result. Afterward, add 59 to this result."
+    },
+    {
+        "title": "Quiz: Integration by substitution - Square root type (2)",
+        "topicName": "Square root types",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A 2 kg mass of water is heated from 10$^\\circ$C to 30$^\\circ$C. If the specific heat of water is 4.18 J/g$^\\circ$C, what is the amount of thermal energy (Q) required?",
+        "answer": "20",
+        "values": "",
+        "hints": "The equation for thermal energy is $Q = mc\\Delta T$"
+    },
+    {
+        "title": "Quiz: Identifying the invariance achieved by combinations of rotations, reflections and translations",
+        "topicName": "Quiz: Combined transformations",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If the radius of a circle is 5 units, what is the area of the circle in square units?",
+        "answer": "The correct answer is 10",
+        "values": "",
+        "hints": "Hint: Use the formula for the area of a circle, which is $\\pi r^2$, where $r$ is the radius of the circle."
+    },
+    {
+        "title": "Quiz: Integration by substitution (2)",
+        "topicName": "Integration by substitution",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Calculate $834 + (12 * 27)$",
+        "answer": "1158",
+        "values": "",
+        "hints": "Use order of operations, also known as BIDMAS or PEMDAS, to solve the problem. The operations must be done in order: brackets (or parentheses), indices (or exponents), division and multiplication (from left to right), addition and subtraction (from left to right)."
+    },
+    {
+        "title": "Quiz: Factorising by grouping",
+        "topicName": "Factorising by grouping",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Which has more kinetic energy, a moving car or a parked car?",
+        "answer": "The moving car has more kinetic energy because it is moving, while the parked car is not.",
+        "values": "",
+        "hints": "Kinetic energy is the energy object possess due to its motion. A parked car is not moving, so it does not have kinetic energy. On the other hand, a moving car is in motion, so it contains kinetic energy."
+    },
+    {
+        "title": "Quiz: Volume and height of a pyramid",
+        "topicName": "Volume of a pyramid",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "The lengths of the parallel sides of a trapezium are 24 cm and 18 cm respectively while the other sides are 11 cm each. Calculate the perimeter of the trapezium",
+        "answer": "The perimeter of the trapezium is 64 cm",
+        "values": "",
+        "hints": "Perimeter of trapezium = Sum of all sides. So, calculate each side separately and add them together"
+    },
+    {
+        "title": "Quiz: Vector addition and subtraction 2D (2)",
+        "topicName": "Addition and subtraction of vectors 2d",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If $(4 - 3x)^2 = 4x + 5$, what is the value of $x$?",
+        "answer": "35",
+        "values": "",
+        "hints": "First expand the brackets on both sides. After that, transfer all constants to one side and x terms to another side. Solve the equation to get the value of x."
+    },
+    {
+        "title": "Quiz: Integrals of the form f'(x) / f(x) (3)",
+        "topicName": "Integrals of the form : f'(x) / f(x)",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If a shirt costs $20 and is on sale for 80% off, how many shirts can you buy with $100?",
+        "answer": "The correct answer is 4.",
+        "values": "",
+        "hints": "Start by multiplying the decimal by 100 to convert it to a percent. Then divide by 20 to find out how many times 20 goes into 100. The answer is the number of 20s in 100, which is 5. Finally, subtract one 20 from 5 to get 4."
+    },
+    {
+        "title": "Quiz: Application of completing the square (2)",
+        "topicName": "Applications of completing the square",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "In the $xy$-plane, the graph of $y = x^2$ intersects the graph of $y = 2x$ at how many points?",
+        "answer": "The curves intersect at two points: $(1,1)$ and $(2,4)$.",
+        "values": "",
+        "hints": "To find the points of intersection between the two curves, set $y = x^2$ and $y = 2x$ equal to each other and solve for $x$. Then find the corresponding $y$ values."
+    },
+    {
+        "title": "Quiz: Equation of a line (alternative form)",
+        "topicName": "Equation of a line given the gradient and point",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If the base of a right triangle measures 4$cm$ and the height is 6$cm$, how long is the hypotenuse?",
+        "answer": "p = 7$cm$, b = 4$cm$, h = 6$cm$",
+        "values": "",
+        "hints": "Apply the formula for the third side of a triangle, the Pythagorean theorem. You can use this formula:  $p^2 = b^2 + h^2$"
+    },
+    {
+        "title": "Quiz: Deriving and solving equations on geometric problems 1",
+        "topicName": "Quiz: Problem solving using algebra",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "The circumference of a circle is 2400 cm. If an arc makes an angle of 90° at the center, find the length of the arc.",
+        "answer": "The length of the arc is 600 cm",
+        "values": "",
+        "hints": "To find the arc length, you can use the formula $L = 2πr(θ/360)$ where $r$ is the radius of the circle and $θ$ is the angle of the arc in degrees."
+    },
+    {
+        "title": "Quiz: Modelling with quadratic equations",
+        "topicName": "Quiz: Modelling of quadratic equations",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the derivative of the function $f(x) = 3x^2 - 2x + 1$ at the point $x = 2$?",
+        "answer": "The derivative of $f(x) = 3x^2 - 2x + 1$ at $x = 2$ is $10$.",
+        "values": "",
+        "hints": "To find the derivative of a function at a specific point, we first take the derivative of the function, then substitute the specific point in for $x$."
+    },
+    {
+        "title": "Quiz: Vector addition and subtraction 2D (2)",
+        "topicName": "Addition and subtraction of vectors 2d",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If one angle of a triangle is 85 degrees and another is 50 degrees, what is the third angle?",
+        "answer": "The correct answer is 45. The sum of the interior angles of a triangle is 180 degrees. Therefore, the third angle is 180 - 85 - 50 = 45 degrees.",
+        "values": "",
+        "hints": "Remember that the sum of the angles in any triangle is always 180 degrees. For this problem, you just have to subtract the sum of the given two angles from 180."
+    },
+    {
+        "title": "Quiz: Identifying the invariance achieved by rotations",
+        "topicName": "Reflections",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "A car is travelling at a speed of 50 miles per hour for a time period of 8 hours. How far does the car travel?",
+        "answer": "The correct answer is that the distance travelled by the car is 400 miles.",
+        "values": "",
+        "hints": "Hints to solve the question: \n1. You need to know the formula for distance, which is rate multiplied by time. \n2. The rate is given as 50 miles per hour and the time is given as 8 hours. \n3. Multiply these together to get the distance travelled."
+    },
+    {
+        "title": "Quiz: Equation of a perpendicular bisector",
+        "topicName": "Equation of a perpendicular bisector",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A company has a revenue of $4200 and it costs them $3000 to produce the goods. How much profit does the company make?",
+        "answer": "The company will make a profit of $1200.",
+        "values": "",
+        "hints": "To find the profit, subtract the cost from the revenue. The cost is the amount of money spent to produce the goods, and the revenue is the amount of money made from selling the goods. In this case, the cost is $3000 and the revenue is $4200, so the profit is $4200 - $3000 = $1200."
+    },
+    {
+        "title": "Quiz: The chord of a circle",
+        "topicName": "Quiz: Tangents and Chords",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the square root of 225?",
+        "answer": "The square root of 225 is 15.",
+        "values": "",
+        "hints": "To find the square root of a number, you could use a calculator, or you can estimate.\n\nThe square root of a number is a value that, when multiplied by itself, gives the original number.\n\nFor example, the square root of 9 is 3 (because 3x3=9).\n\nThe square root of 16 is 4 (because 4x4=16), etc."
+    },
+    {
+        "title": "Quiz: Calculating a percentage change",
+        "topicName": "Calculating a percentage change",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Find the slope of a line that passes through the points (2, 50) and (4, 60).",
+        "answer": "Slope = $\\frac{rise}{run} = \\frac{60-50}{4-2} = \\frac{10}{2} = 5$",
+        "values": "",
+        "hints": "To find the slope of a line, we use the formula slope = rise/run. In this case, the rise is the difference in y-values, and the run is the difference in x-values. So to find the slope, subtract the smaller y-value from the larger one, and subtract the smaller x-value from the larger one, then divide the two results."
+    },
+    {
+        "title": "Quiz: Independent and mutually exclusive events using set notation",
+        "topicName": "01 Independent, dependent and mutually exclusive events",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "In a school, there are 238 girls. Each girl chose to join either the painting or singing group. If 94 girls joined the painting group, and each boy chose to join either the painting group, where there are 142 boys, or the singing group, where there are 133 boys, find the total number of boys and girls in school.",
+        "answer": "413",
+        "values": "",
+        "hints": "First count the total number of girls. Then subtract the number of girls interested in painting from the total number, to find the number of girls interested in singing. Then add the numbers of boys interested in painting and singing."
+    },
+    {
+        "title": "Quiz: Vector addition and subtraction 2D (2)",
+        "topicName": "Addition and subtraction of vectors 2d",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "The volume of a cube is $27 cm^3$. What is the lateral surface area of the cube?",
+        "answer": "2",
+        "values": "",
+        "hints": "The volume of the cube is $27 cm^3$. The side of the cube is the cube root of the volume. Hence the side of the cube is $\\sqrt[3]{27}$, which equals 3 cm. The perimeter of the base is the sum of all four sides of the base. Hence, the perimeter of the base is $4 \\times 3$, which equals 12 cm.  The lateral surface area of the cube is the product of the perimeter of the base and the height of the cube. Hence the lateral surface area of the cube is $\\sqrt[3]{27} \\times 12$, which equals $3 \\times 12$, which equals 36 sq cm."
+    },
+    {
+        "title": "Quiz: Equation of a line (alternative form)",
+        "topicName": "Equation of a line given the gradient and point",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the measurement of an angle in a dodecagon (12-gon) that is 80 degrees less than the average of all the angles in the dodecagon?",
+        "answer": "The correct answer is 421. Since the sum of all interior angles in a polygon is calculated as (n-2)180, where n is the number of sides. So for a 12-sided polygon, the sum is (12-2)180 = 1800. Each angle is 1800/12 = 150, so the angle measuring 80 less than the average is 150 - 80 = 70.",
+        "values": "",
+        "hints": "To find the measure of an angle in a 12-gon that is 80 degrees less than the average, you first need to find the average angle measurement. The sum of all interior angles in a polygon is (n-2)180, where n is the number of sides. So for a 12-sided polygon (a dodecagon), the sum is (12-2)180 = 1800 degrees. Each angle averages to 1800/12 = 150 degrees. The angle that is 80 degrees less than the average is 150 - 80 = 70 degrees."
+    },
+    {
+        "title": "Quiz: Identifying the invariance achieved by rotations",
+        "topicName": "Reflections",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Let's assume there are two numbers that multiply to make 24 and their sum is 10. Add the number 14 to the product of these two numbers. What is the final answer?",
+        "answer": "The answer is 48.",
+        "values": "",
+        "hints": "As per the given facts in the question, we know that there are two numbers that multiply to 24 and their sum is 12. From this, we can imply that the numbers are 6 and 4 as 6 * 4 = 24 and 6 + 4 = 10. We add the product of those numbers, i.e., 10 + 24 = 34. Lastly, we add this sum with the number 14 to get the final answer, i.e., 34 + 14 = 48."
+    },
+    {
+        "title": "Quiz: Volume and height of a pyramid",
+        "topicName": "Volume of a pyramid",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Rachel makes a square shape that is 2 blocks by 2 blocks. Later, she expands the square to 3 blocks by 3 blocks. How many blocks did Rachel add to expand her square?",
+        "answer": "3",
+        "values": "",
+        "hints": "To solve this problem, you should first find the area A of the first square by using the formula A = s^2, where s is the length of one side of the square. Next, calculate the area B of the second square using the same formula. Then, subtract A from B to find the difference in area. After that, find out the total number of blocks used to make both squares. Lastly, subtract the number of blocks used in the smaller square from the total number of blocks to find out how many blocks were used to increase the area. This is your final answer."
+    },
+    {
+        "title": "Quiz: Equation of a perpendicular bisector",
+        "topicName": "Equation of a perpendicular bisector",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Consider the following system of equations:\\begin{align*}3(2a - b) \u0026= 9\\\\3a + 2b \u0026= 9\\end{align*}$Find the values of $a$ and $b$.",
+        "answer": "The correct answer is: \\((a, b, c, d, e) = (0, 2, 2, 3, 5)\\)",
+        "values": "",
+        "hints": "To solve this, you would perform the tasks in the following order:\n\n1. Distribute the 3 to both \\(2a\\) and \\(-b\\) to get \\(6a - 3b = 9\\).\n2. Rearrange the equation to solve for b: \\(b = 2a - 3\\).\n3. Substitute the value of b from the first equation into the second equation: \\(3a + 2(2a - 3) = 9\\).\n4. Simplify the equation to find the value of a: \\(7a - 6 = 9\\) or \\(a = 15/7\\).\n5. Substitute the value of a into the first equation to find the value of b: \\(b = 2(15/7) - 3 = 6/7\\)."
+    },
+    {
+        "title": "Problems involving fractions",
+        "topicName": "Fractions, decimal and percentage",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "The numbers 1, 2, 1, 4, 1, 5, 2 have been observed. Which number has the highest frequency?",
+        "answer": "The given data can be organized in a frequency table as follows: \\begin{tabular}{|c|c|} \\hline Number \u0026 Frequency \\\\ \\hline 1 \u0026 3 \\\\ 2 \u0026 2 \\\\ 3 \u0026 0 \\\\ 4 \u0026 1 \\\\ 5 \u0026 1 \\\\ \\hline \\end{tabular} So, the number with the highest frequency is $1$.",
+        "values": "",
+        "hints": "To find the number with the highest frequency, you can organize the data in a frequency table. The number that appears most often is the one with the highest frequency."
+    },
+    {
+        "title": "Quiz: Cumulative frequency",
+        "topicName": "Probability and statistics",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "The golden rectangle, a rectangle whose sides are in the golden ratio, has a width of 3 units and a height of 2 units. The golden rectangle's diagonal is divided in the ratio $1:\\sqrt{5}$. What is the length of the shorter diagonal?",
+        "answer": "4",
+        "values": "",
+        "hints": "To determine the length of the shorter diagonal of the rectangle, we can use the formula $d = \\sqrt{w^2 + h^2}$, where $d$ is the diagonal, $w$ is the width, and $h$ is the height. Given that the width is 3 units and the height is 2 units, you can calculate $d = \\sqrt{3^2 + 2^2} = \\sqrt{13}$. Because the diagonal of the golden rectangle is divided in the ratio $1:\\sqrt{5}$, the shorter length is $d/ \\sqrt{5+1}$, or roughly 4 units."
+    },
+    {
+        "title": "Quiz: Calculating with roots, and with integer and fractional indices",
+        "topicName": "Simplifying terms with negative powers",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the result of $2 + 3$?",
+        "answer": "5",
+        "values": "",
+        "hints": ""
+    },
+    {
+        "title": "Quiz: Factorising Quadratic Trinomials by Inspection",
+        "topicName": "Factorising quadratic expressions",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the sum of 15 and 20?",
+        "answer": "35",
+        "values": "",
+        "hints": "To solve this problem, we need to add the two given numbers."
+    },
+    {
+        "title": "Quiz: Limiting equilibrium in rough inclined planes",
+        "topicName": "Friction and static particles",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the result if you add 6 to 30?",
+        "answer": "The correct answer is 36.",
+        "values": "",
+        "hints": "To solve this problem, you need to add 6 to 30."
+    },
+    {
+        "title": "Quiz: Resolving moments of forces",
+        "topicName": "What is the moment of a force?",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the result if you multiply 3 with 8?",
+        "answer": "The correct answer is 24.",
+        "values": "",
+        "hints": "Take 3 times of 8."
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations (linear/linear) by elimination (1)",
+        "topicName": "Quiz: Solving simultaneous equations",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the square of 15?",
+        "answer": "The correct answer is 225.",
+        "values": "",
+        "hints": "To find the solution, square the given number."
+    },
+    {
+        "title": "Quiz: Volume of a sphere",
+        "topicName": "Surface areas and Volumes of Spheres and Cones",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the product of 8 and 6?",
+        "answer": "The correct answer is 48.",
+        "values": "",
+        "hints": "To find the product, multiply the numbers 8 and 6."
+    },
+    {
+        "title": "Quiz: Using y = mx + c",
+        "topicName": "Equation of a straight line: y=mx+c",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If $3y - 9 = 9$, what is the value of $y$?",
+        "answer": "6",
+        "values": "",
+        "hints": "We can simplify the equation to solve for y"
+    },
+    {
+        "title": "Quiz: Surds - Addition, Subtraction and Multiplication",
+        "topicName": "Multiplying surds",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the square of 25?",
+        "answer": "625",
+        "values": "",
+        "hints": "First find the factors of 25. Then multiply them together."
+    },
+    {
+        "title": "Quiz: Volume of a sphere",
+        "topicName": "Surface areas and Volumes of Spheres and Cones",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is half of $254$?",
+        "answer": "127",
+        "values": "",
+        "hints": "To solve this problem, you need to calculate the difference between $254$ and $127$."
+    },
+    {
+        "title": "Quiz: Interpreting pie charts",
+        "topicName": "Quiz: Two-way tables",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the value of n if $2n - 2 = 8$?",
+        "answer": "5",
+        "values": "",
+        "hints": "Use basic arithmetic operations to solve the equation"
+    },
+    {
+        "title": "Quiz: Calculating with roots, and with integer and fractional indices",
+        "topicName": "Simplifying terms with negative powers",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is the result of dividing 24 by 3?",
+        "answer": "8",
+        "values": "",
+        "hints": "To solve this problem, divide 24 by 3."
+    },
+    {
+        "title": "Exam Type Question: Modulus Inequalities 1",
+        "topicName": "Modulus Inequalities",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If you know that $4x - 5 = 3$, what is the value of $x$?",
+        "answer": "2",
+        "values": "",
+        "hints": "Reorder the equation and solve for x"
+    },
+    {
+        "title": "Quiz: All about Coordinates",
+        "topicName": "All about Coordinates",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the square of 5?",
+        "answer": "The correct answer is 25",
+        "values": "",
+        "hints": "Hint: You need to find the square of 5."
+    },
+    {
+        "title": "Quiz: Using the Phi function with the standard normal distribution",
+        "topicName": "02 The standard normal distribution Z~N(0,1) - Using tables or calculator",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is a common name for Oryctolagus cuniculus?",
+        "answer": "Rabbit",
+        "values": "",
+        "hints": "It is a mammal that lives in various parts of the world. It has long ears and a short tail."
+    },
+    {
+        "title": "Solving simultaneous equations (linear/linear) by elimination (1)",
+        "topicName": "Solving simultaneous equations",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "The diameter of a cylindrical pillar is 18 cm. What would be the radius of the pillar?",
+        "answer": "The radius of the cylinder is 9 cm",
+        "values": "",
+        "hints": "Given diameter is 18 cm. We know, Radius is half of the diameter. So, the radius of the cylinder = 18/2 = 9 cm."
+    },
+    {
+        "title": "Exam Type Question: Modulus Inequalities 2",
+        "topicName": "Modulus Inequalities",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the sum of 7 and 5?",
+        "answer": "12",
+        "values": "",
+        "hints": "To solve this problem, you can add the two given numbers."
+    },
+    {
+        "title": "Quiz: Completing the square (3)",
+        "topicName": "Completing the square",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If 2x + 3 = 13, what is the value of x?",
+        "answer": "The correct answer is: $x = 5$",
+        "values": "",
+        "hints": "Hint: First add -3 to both sides of the equation to get 2x=10, then divide both sides by 2 to solve for x."
+    },
+    {
+        "title": "Quiz: Difference of Two Squares",
+        "topicName": "Factorising quadratic expressions",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "What is 3 + 2?",
+        "answer": "The correct answer is 5",
+        "values": "",
+        "hints": "This is a simple addition problem. Just add the two numbers together."
+    },
+    {
+        "title": "Quiz: Circle Theorems - Angle at centre and cyclic quadrilateral",
+        "topicName": "Part one",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What will be the square of -2?",
+        "answer": "4",
+        "values": "",
+        "hints": "The square of an integer is always a positive number or 0. So, the square of -2 is also 4."
+    },
+    {
+        "title": "Quiz: All about Coordinates",
+        "topicName": "All about Coordinates",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the product of $2$ and $2$ ?",
+        "answer": "5",
+        "values": "",
+        "hints": "Identify the factors of the expression such as constants or variables. Multiply each of these factors to get the result."
+    },
+    {
+        "title": "Quiz: Frequency trees",
+        "topicName": "Quiz: The basics of probability",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If $a^2 - b^2 = 198$ and $a - b = 8$, what is the value of $a + b$?",
+        "answer": "74",
+        "values": "",
+        "hints": "To find the missing number, use the difference of squares formula, which states that $a^2 - b^2 = (a-b)(a+b)$."
+    },
+    {
+        "title": "Quiz: Volumes and total surface areas of 3D shapes",
+        "topicName": "Geometry and measures",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the product of 3 and 5?",
+        "answer": "The correct answer is 15.",
+        "values": "",
+        "hints": "To find the answer, add 5 three times or multiply 5 by 3."
+    },
+    {
+        "title": "Quiz: Limiting equilibrium in rough inclined planes",
+        "topicName": "Friction and static particles",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the result of 3 times 4?",
+        "answer": "The correct answer is 12.",
+        "values": "",
+        "hints": "You need to multiply 3 by 4 to get the answer."
+    },
+    {
+        "title": "Quiz: Integration - General method (3)",
+        "topicName": "Integration – General Methods",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If $y = 2x + 3$ and $x = 3.5$, what is the value of $y$?",
+        "answer": "The correct answer is 10",
+        "values": "",
+        "hints": "Hint: Use the given equation and substitute the values"
+    },
+    {
+        "title": "Quiz: Difference of Two Squares",
+        "topicName": "Factorising quadratic expressions",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Find the area of a square whose side is 7cm.",
+        "answer": "49",
+        "values": "",
+        "hints": "Use the formula of area of square: $A = a^2$ where $a$ is the side of square."
+    },
+    {
+        "title": "Exam Type Question: Modulus Inequalities 2",
+        "topicName": "Modulus Inequalities",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Calculate: $3 \\times 9 + 10$.",
+        "answer": "The correct answer is 37.",
+        "values": "",
+        "hints": "To solve this, the first step is to multiply 3 by 9. Then, add 10 to the result."
+    },
+    {
+        "title": "Quiz: Counting combinations of digits given specific criteria",
+        "topicName": "Quiz: Listing strategies",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Find the area of a square whose side is 15 units.",
+        "answer": "The correct answer is 125 square units.",
+        "values": "",
+        "hints": "Just calculate the area of the square which is a side length squared."
+    },
+    {
+        "title": "Quiz: Vectors - distance between two points 2D",
+        "topicName": "Magnitude of a 2 dimensional vector",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the density of an object with a mass of 1 kg and a volume of 1 cubic meter?",
+        "answer": "The correct answer is 1",
+        "values": "",
+        "hints": "Hint: Use the formula: $\\frac{\\text{mass}}{\\text{volume}}$"
+    },
+    {
+        "title": "Quiz: Counting combinations of digits given specific criteria",
+        "topicName": "Quiz: Listing strategies",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the sum of 15, 20 and 30?",
+        "answer": "The correct answer is 65.",
+        "values": "",
+        "hints": "By algebra, the solution is $15 + 20 + 30 = 65$. Adding all the given numbers gives the solution."
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations (linear/linear) by elimination (1)",
+        "topicName": "Quiz: Solving simultaneous equations",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "The product of 3 and a number is 168. What is the number?",
+        "answer": "56",
+        "values": "",
+        "hints": "You need to cross multiply and solve for x: 3x = 168"
+    },
+    {
+        "title": "Quiz: Vectors - distance between two points 2D",
+        "topicName": "Magnitude of a 2 dimensional vector",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Andrew saves $50 every week. How much money does he save in 9 weeks?",
+        "answer": "The total money he saved is $450",
+        "values": "",
+        "hints": "First find out how much money he saved in a week. Then multiply that by the number of weeks in a year."
+    },
+    {
+        "title": "Exam Type Question: Modulus Inequalities 1",
+        "topicName": "Modulus Inequalities",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "{\"stem\": \"What is the coefficient of x in the equation 5x = 20?\"}",
+        "answer": "{\"answer\": \"5\"}",
+        "values": "",
+        "hints": "{\"hints\": [\"Hint 1: Identify the coefficient of x in the equation\", \"Hint 2: The coefficient of x is the numerical measure that stands before it. Here, it is 5.\"]}"
+    },
+    {
+        "title": "Quiz: Completing the square (2)",
+        "topicName": "Completing the square",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If a car travels at a speed of 6 miles per hour for 6 hours, how many miles does it travel?",
+        "answer": "The correct answer is 36.",
+        "values": "",
+        "hints": "You can solve this problem by multiplying the given numbers."
+    },
+    {
+        "title": "Quiz: Angles and accelerations from vectors",
+        "topicName": "Quiz: Force and acceleration vectors",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the sum of the exterior angles of a triangle?",
+        "answer": "The sum of the exterior angles of a triangle is 360 degrees.",
+        "values": "",
+        "hints": "Remember that the exterior angles of a triangle always add up to 360 degrees, no matter what the triangle's interior angles are."
+    },
+    {
+        "title": "Quiz: Acceleration problems",
+        "topicName": "Rate of change",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the area of a square with a side length of 5 units?",
+        "answer": "The correct answer is 25 sq units.",
+        "values": "",
+        "hints": "Hints: You can find the area of a square by multiplying the length of one side by itself."
+    },
+    {
+        "title": "Quiz: Integration by parts (ln types)",
+        "topicName": "Integration by parts",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If $3x = 6$ what is the value of $x$?",
+        "answer": "The value of $x$ is $2$",
+        "values": "",
+        "hints": "First rearrange the equation so that the $x$ is on one side. Then solve for $x$"
+    },
+    {
+        "title": "Quiz: Factorising Quadratic Trinomials by Inspection",
+        "topicName": "Factorising quadratic expressions",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What would be the result if you add 10 and 30 then subtract 10?",
+        "answer": "The correct answer is 30",
+        "values": "",
+        "hints": "You can use the basic algebraic equation, which is 10 + 30 - 10 = 30"
+    },
+    {
+        "title": "Exam Type Question: Modulus Inequalities 1",
+        "topicName": "Modulus Inequalities",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the result of the operation $3 + (-2)$?",
+        "answer": "The correct answer is 1",
+        "values": "",
+        "hints": "The hints for this problem are: consider the problem as a simple arithmetic problem. In this problem, we need to add 2 numbers to get the total. But the trick is that one of the numbers is negative. When you add a negative number, it is equivalent to subtracting that number."
+    },
+    {
+        "title": "Exam Style Question: Indices 1",
+        "topicName": "Indices",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A car is travelling with a speed of 80 km/h. How long will it take to cover a distance of 320 km?",
+        "answer": "The time taken is 4 hours.",
+        "values": "",
+        "hints": "We know that the distance equals speed times time. $d = s \\times t$. Let's substitute the given values."
+    },
+    {
+        "title": "Solving simultaneous equations (linear/linear) by elimination (1)",
+        "topicName": "Solving simultaneous equations",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Find the smallest multiple of 8 that is greater than or equal to 50.",
+        "answer": "56",
+        "values": "",
+        "hints": "You can find the smallest multiple of 8 that is greater than or equal to 50 by using the formula: 8 x ceil(50/8)."
+    },
+    {
+        "title": "Quiz: Modelling Curves y=ab^x - Converting to Linear Form",
+        "topicName": "Logarithmic and Exponential Functions",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the largest multiple of 5 that is less than or equal to 100?",
+        "answer": "The correct answer is 100.",
+        "values": "",
+        "hints": "To solve this, let's list down all the numbers that are multiple of 5. They are 5, 10, 15, 20, ..., 100. We can see that 100 is the 20th term so it's the last term. Having that said, it's proven that 100 is the largest multiple of 5."
+    },
+    {
+        "title": "Quiz: Difference of Two Squares",
+        "topicName": "Factorising quadratic expressions",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "The measures of two angles of a triangle are 60 degrees and 75 degrees. What is the measure of the third angle?",
+        "answer": "The correct answer is 45.",
+        "values": "",
+        "hints": "Hint 1: The sum of the angles of a triangle is 180 degrees.\nHint 2: To find the third angle, subtract the sum of the two given angles from 180."
+    },
+    {
+        "title": "Quiz: Integration - Mixed questions (5)",
+        "topicName": "Mixed Examples – Integration",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Julie spent 30 minutes on homework, 20 minutes on cleaning, and 30 minutes on playing. How much time did she spend overall?",
+        "answer": "The correct answer is 80 minutes.",
+        "values": "",
+        "hints": "Hint: You can find the total time by adding up the time spent on each activity."
+    },
+    {
+        "title": "Quiz: Equation of a circle",
+        "topicName": "Coordinate Geometry",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If Zack has 17 apples and he gives 5 apples to his friend, how many apples does he have if he then triples the remaining total?",
+        "answer": "36",
+        "values": "",
+        "hints": "First, subtract 5 from 17 to get 12. Multiply this by 3 to get 36."
+    },
+    {
+        "title": "Exam Style Question: Velocity Time Graphs 2",
+        "topicName": "Velocity Time Graphs",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Solve for x in the equation $5x = 125$.",
+        "answer": "25",
+        "values": "",
+        "hints": "To solve for x, you need to do the opposite operation for each step, starting from the last operation."
+    },
+    {
+        "title": "Quiz: Integration - Mixed questions (2)",
+        "topicName": "Mixed Examples – Integration",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a system of linear equations is given by x + y = 10 and x - y = 0, find the value of x.",
+        "answer": "x = 5",
+        "values": "",
+        "hints": "First, solve x + y = 10 for y. Second, replace y in x - y = 0 by the y value you got from the first equation. Then solve for x."
+    },
+    {
+        "title": "Quiz: Integration - Mixed questions (2)",
+        "topicName": "Mixed Examples – Integration",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is 8 minus 4?",
+        "answer": "The correct answer is 4",
+        "values": "",
+        "hints": "Remember that subtraction is the opposite of addition. So, if 6 + 2 = 8, then 8 - 2 = 6. Use this principle to solve the problem."
+    },
+    {
+        "title": "Quiz: Vectors - distance between two points 2D",
+        "topicName": "Magnitude of a 2 dimensional vector",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A triangle has a base of 10 units and a height of 10 units. What is the area of the triangle?",
+        "answer": "The area of the triangle is 50 square units.",
+        "values": "",
+        "hints": "To find the area of the triangle, we can use the formula: Area = 1/2 * base * height. The base of the triangle is 10 units and the height is 10 units. Substituting these values into the formula, we get: Area = 1/2 * 10 * 10 = 50 square units."
+    },
+    {
+        "title": "Quiz: Circle Theorems - Angle at centre and cyclic quadrilateral",
+        "topicName": "Part one",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a cube has sides of length 2 units and another cube has sides of length 4 units, what is the total volume of the two cubes?",
+        "answer": "6",
+        "values": "",
+        "hints": "To solve this problem, you need to add the values of the two cubes."
+    },
+    {
+        "title": "Quiz: Multiplying indices (2)",
+        "topicName": "Multiplication rules for indices",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If $4x=8$, what is the value of $x$?",
+        "answer": "The correct answer is $4x=8$, so $x=8/4",
+        "values": "",
+        "hints": "To solve the equation, you need to divide both sides of the equation by $4$ to solve for $x$."
+    },
+    {
+        "title": "Quiz: Completing the square (3)",
+        "topicName": "Completing the square",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If the area of a rectangle is 12.5 and the length is 2, what is the breadth?",
+        "answer": "Answer: 6.25",
+        "values": "",
+        "hints": "Hint: The formula of area of rectangle is length * breadth, which is 5*2.5=12.5. So, to find the breadth, use the formula breadth = area/length = 12.5/2 = 6.25"
+    },
+    {
+        "title": "Quiz: Integration by parts (ln types)",
+        "topicName": "Integration by parts",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If I have 2 apples and I buy 4 more, how many apples do I have in total?",
+        "answer": "The answer is 6",
+        "values": "",
+        "hints": "Use the order of operations, BIDMAS, which stands for Brackets, Indices, Division and Multiplication (from left to right), Addition and Subtraction (from left to right)."
+    },
+    {
+        "title": "Quiz: Integration - General method (3)",
+        "topicName": "Integration – General Methods",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If we have a fraction where the numerator is 3 and the denominator is 8, what is the denominator?",
+        "answer": "The denominator of the fraction is 8.",
+        "values": "",
+        "hints": "In a fraction, the number above the line is called the numerator and the number below the line is the denominator."
+    },
+    {
+        "title": "Exam Style Question: Binomial Expansion 1",
+        "topicName": "Exam Style Questions",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Subtract 12 from 20 and then multiply the result by 14. What do you get?",
+        "answer": "The correct answer is 84.",
+        "values": "",
+        "hints": "To solve this problem, follow these steps: First, subtract 12 from 20. Then, multiply the result by 14."
+    },
+    {
+        "title": "Quiz: Frequency trees",
+        "topicName": "Quiz: The basics of probability",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If the side of a square is $5cm$, what is the area of the square?",
+        "answer": "25",
+        "values": "",
+        "hints": "Recall that the area of a square is given by the formula $A = s^2$, where $s$ is the length of one side. Substitute $5$ for $s$ in the equation to find the area."
+    },
+    {
+        "title": "Exam Style Question: Binomial Expansion 1",
+        "topicName": "Exam Style Questions",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If a polygon has 15 sides, what is the sum of its interior angles? A)2600 B)2340 C)2200 D)2400",
+        "answer": "The correct answer is option B",
+        "values": "",
+        "hints": "Hint: To solve this question, first identify the type of polygon. Then use the formula for the sum of interior angles of a polygon which is (n-2)x180, where n is the number of sides."
+    },
+    {
+        "title": "Quiz: Integration - Mixed questions (5)",
+        "topicName": "Mixed Examples – Integration",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Find the median of the following set of numbers: 23, 15, 12, 23, 29",
+        "answer": "The median is 23.",
+        "values": "",
+        "hints": "To find the median, arrange the numbers in order from least to greatest and find the middle number. If there are two middle numbers, the median is the average of those two numbers."
+    },
+    {
+        "title": "Solving simultaneous equations (linear/linear) by elimination (1)",
+        "topicName": "Solving simultaneous equations",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the derivative of $4x^3$ with respect to x?",
+        "answer": "The correct answer is 4x^2.",
+        "values": "",
+        "hints": "Remember that the exponent applies only to the base it is attached to. In this case, only x is raised to the second power, not 4."
+    },
+    {
+        "title": "Exam Style Question: Velocity Time Graphs 2",
+        "topicName": "Velocity Time Graphs",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "If the equation is $x + 3 = 10$, what is the value of $x$?",
+        "answer": "7",
+        "values": "",
+        "hints": "To find the value of x in the equation, isolate x on one side of the equation. This is done by subtracting 3 from both sides of the equation."
+    },
+    {
+        "title": "Quiz: Surds - Addition, Subtraction and Multiplication",
+        "topicName": "Multiplying surds",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Mary has 3 apples inside her bag. If the number of apples of Mary is double the number of apples of John and three times the number of books of John, how many apples does John have?",
+        "answer": "The number of apples John has = (3 * 2) / 3 = 2 apples.",
+        "values": "",
+        "hints": "First, you can start by multiplying the number of apples Mary has (3) by 2 to get 6. Then, divide 6 by the number of books John has (3). The answer is 2 apples."
+    },
+    {
+        "title": "Quiz: Acceleration problems",
+        "topicName": "Rate of change",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "In a given figure, A(2,3) , C(8,5) and D are the vertices of a triangle. B is the midpoint of AC .If AD is perpendicular to BC, find the coordinates of D.",
+        "answer": "5",
+        "values": "",
+        "hints": "First calculate the coordinates of B as the midpoint of line segment AC. Then calculate AD using the distance formula."
+    },
+    {
+        "title": "Quiz: Completing the square (2)",
+        "topicName": "Completing the square",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A cube of copper has a side length of 29cm. The density of copper is 8.92g/cm³. Find the mass of the cube.",
+        "answer": "18,879",
+        "values": "",
+        "hints": "First, find the volume of the cube. A cube has six equal sides, so cubing one side height gives the total volume. Then, multiply the cube's volume by the mass of copper. This will give the answer in grams, so convert grams to kilograms. 1kg = 1,000g. Finally, round the answer to the nearest whole number."
+    },
+    {
+        "title": "Quiz: Interpreting pie charts",
+        "topicName": "Quiz: Two-way tables",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Calculate the result of following equation: $100 - (9*4*2)$.",
+        "answer": "The correct answer is 72",
+        "values": "",
+        "hints": "First, calculate the product of $9$ and $4$, which is $36$. Then, calculate the product of $2$ and $36$, which is $72$. Finally, subtract $72$ from $100$, which is $28$."
+    },
+    {
+        "title": "Quiz: Counting combinations of digits given specific criteria",
+        "topicName": "Quiz: Listing strategies",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Evaluate the expression $7 - 3 * (2 - 5)$.",
+        "answer": "The correct answer is 7.",
+        "values": "",
+        "hints": "Hint: Use the order of operations (PEMDAS/BODMAS) which stands for Parentheses/Brackets, Exponents/Orders (ie Powers and Square Roots, etc.), Multiplication and Division, Addition and Subtraction."
+    },
+    {
+        "title": "Quiz: Transformations of Trig Graphs - Translation parallel to the x-axis",
+        "topicName": "Translations of trig graphs",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a triangle has a base of 8 units and a height of 5 units, what is the area of the triangle?",
+        "answer": "The area of the triangle is 20 square units.",
+        "values": "",
+        "hints": "To find the area of a triangle, multiply the base by the height, and then divide by 2."
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations (linear/linear) by elimination (1)",
+        "topicName": "Quiz: Solving simultaneous equations",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If one angle of a triangle is twice as large as the other two angles, which are equal. What are the measures of the angles?",
+        "answer": "The angles are $120\\degree$, $30\\degree$, and $30\\degree$",
+        "values": "",
+        "hints": "Use the properties of triangles and the fact that the sum of the angles in any triangle is $180\\degree$"
+    },
+    {
+        "title": "Exam Style Question: Velocity Time Graphs 2",
+        "topicName": "Velocity Time Graphs",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Find the sum of the measures of the angles of a triangle.",
+        "answer": "The correct answer is $ 180^\\circ $. So, the sum of measures of the angles of a triangle is always $ 180^\\circ $.",
+        "values": "",
+        "hints": "The sum of the measures of the angles of a triangle is $ 180^\\circ $."
+    },
+    {
+        "title": "Exam Type Question: Modulus Inequalities 2",
+        "topicName": "Modulus Inequalities",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the missing number in the sequence: 2, 4, 6, ___, 10?",
+        "answer": "8",
+        "values": "",
+        "hints": "To find the missing number, you need to understand the pattern in the number sequence. In this case, the sequence is increasing by 2 for each step. So, the pattern is +2. The missing number is 8 because 6 + 2 equals 8."
+    },
+    {
+        "title": "Exam Style Question: Indices 1",
+        "topicName": "Indices",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is $3 \\times 7$ plus $2 \\times 7$?",
+        "answer": "The correct answer is 35",
+        "values": "",
+        "hints": "To solve this problem, you need to apply the formula of multiplication. $3 \\times 7$ = 21, and $2 \\times 7$ = 14. Adding 21 and 14 will give you 35"
+    },
+    {
+        "title": "Exam Style Question: Binomial Expansion 1",
+        "topicName": "Exam Style Questions",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "In a class of 275 students, there are 132 girls. How many boys are there in the class?",
+        "answer": "143",
+        "values": "",
+        "hints": "To solve this problem, first find the total number of students in the class by adding the number of boys and girls. Then subtract the number of girls from the total to find the number of boys."
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations (linear/linear) by elimination (2)",
+        "topicName": "Neither x term nor y term are the same",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Find three positive integers such that the sum of their cubes is equal to 370.",
+        "answer": "The sum of the cubes of three different positive integers is 370.",
+        "values": "",
+        "hints": "Use the formula for the sum of cubes: $a^3 + b^3 + c^3 = (a + b + c)(a^2 - ab + b^2 - ac + c^2 - bc)$"
+    },
+    {
+        "title": "Quiz: Solving simultaneous equations (linear/linear) by elimination (2)",
+        "topicName": "Neither x term nor y term are the same",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "The perimeter of a rectangle is 34 units and its width is 5 units. Find the length of the rectangle.",
+        "answer": "The length of the rectangle is 21 units.",
+        "values": "",
+        "hints": "To find the length, you can first subtract the given width from the given perimeter, then divide the result by 2. This is because the formula for the perimeter of a rectangle is 2*(length + width)."
+    },
+    {
+        "title": "Quiz: Circle Theorems - Angle at centre and cyclic quadrilateral",
+        "topicName": "Part one",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A man has invited 10 friends at his birthday party. He wants to give $2 gift to each friend and $2 for food to each friend. He has only $50. How much money will remain with him after spending the amount on food and gift for each friend?",
+        "answer": "32",
+        "values": "",
+        "hints": "First, find the number of persons. Then, find the total cost of a person. Finally, subtract the total cost from the given amount to get the remaining amount."
+    },
+    {
+        "title": "Quiz: Resolving moments of forces",
+        "topicName": "What is the moment of a force?",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "The heights (in feet) of 10 basketball players are: 6, 5, 7, 6, 5, 8, 7, 6, 5, 7. What is the standard deviation of these heights?",
+        "answer": "The standard deviation is $5$.",
+        "values": "",
+        "hints": "To calculate the standard deviation, first find the mean, subtract the mean from each data point, square the results, find the average of those squared differences, and finally take the square root."
+    },
+    {
+        "title": "Quiz: Frequency trees",
+        "topicName": "Quiz: The basics of probability",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "In a coordinate plane, the distance between the point (-3,7) and the point (7,-5) is closest to what number?",
+        "answer": "145",
+        "values": "",
+        "hints": "This is a geometry question, you could use the Pythagorean theorem to determine the distance between two points on a coordinate plane. Recall that the Pythagorean theorem can be used to determine the length of one side of a triangle if the lengths of the other two sides are known."
+    },
+    {
+        "title": "Quiz: Interpreting pie charts",
+        "topicName": "Quiz: Two-way tables",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "In a rectangle ABCD, diagonal AC = 3x - 4 and BD = 4x - 5. Find the value of x.",
+        "answer": "The diagonals of a rectangle are equal. Therefore, AC = BD. This means that $AC^2 = BD^2$. So, $ (3x - 4)^2 = (4x - 5)^2 $.",
+        "values": "",
+        "hints": "Use the property of a rectangle that its diagonals are equal. So, AC = BD. Hence, $ (3x - 4)^2 = (4x - 5)^2 $. Solve this equation to find the value of x."
+    },
+    {
+        "title": "Quiz: All about Coordinates",
+        "topicName": "All about Coordinates",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A box is formed from a rectangular sheet of metal measures 16'' x 24''. Cube corners with side 2'' are removed at all 8 corners. Then the remaining flaps are folded to form the box. Find the volume of the box.",
+        "answer": "300",
+        "values": "",
+        "hints": "Find the volume of the box. Then find the volume of the removed portion by subtracting the removed volume from the total volume."
+    },
+    {
+        "title": "Quiz: Integration by parts (ln types)",
+        "topicName": "Integration by parts",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "If a ship is sailing at a speed of 20 km/h, how long will it take to cross the Atlantic Ocean, which is approximately 10,000 km wide?",
+        "answer": "The ship will take 500 hours to cross the Atlantic Ocean.",
+        "values": "",
+        "hints": "To find the time, use the speed of the ship and the distance of the Atlantic Ocean. The formula for speed is distance/time, so we can rearrange it to find time = distance/speed."
+    },
+    {
+        "title": "Quiz: Surds - Addition, Subtraction and Multiplication",
+        "topicName": "Multiplying surds",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "What is the value of $3^{2*3}$?",
+        "answer": "The correct answer is $27$.",
+        "values": "",
+        "hints": "Try to apply the equivalent of powers rule which says: $a^{m*n}= (a^m)^n$. Here, $3^{2*3}=(3^2)^3=9^3=729$."
+    },
+    {
+        "title": "Quiz: Using y = mx + c",
+        "topicName": "Equation of a straight line: y=mx+c",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "A car accelerates from rest to 10 m/s in 4 seconds. What is the acceleration of the car?",
+        "answer": "4 seconds",
+        "values": "",
+        "hints": "Use the formula for the motion of an object with a constant acceleration. The formula is $d = ut + (1/2)at^2$, where $d$ is the displacement, $u$ is the initial velocity, $t$ is the time, and $a$ is the acceleration."
+    },
+    {
+        "title": "Quiz: Integration - Mixed questions (5)",
+        "topicName": "Mixed Examples – Integration",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "A big box is filled with small boxes. There are 8 rows and 6 columns of small boxes inside the big box. How many small boxes are there in the big box?",
+        "answer": "The correct answer is 48.",
+        "values": "",
+        "hints": "First, find the total number of small boxes. Multiply 8 by 6 to get 48. So, there are 48 small boxes in all."
+    },
+    {
+        "title": "Quiz: Calculating resultant moments of angled forces",
+        "topicName": "Quiz: Moment of a force",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Find the sum of the numbers $3, 7, 5, 4, 6, 2$.",
+        "answer": "27",
+        "values": "",
+        "hints": "By the Associative and Commutative Properties of Addition, we can add the numbers in any order and they will always give the same sum. $3 + 7 + 5 + 4 + 6 + 2 = 27$"
+    },
+    {
+        "title": "Exam Style Question: Indices 1",
+        "topicName": "Indices",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If the alphabet has only two letters, A and B, then how many ways can a 3-letter word be written such that the pattern is AAB, if letters can be reshuffled?",
+        "answer": "The format of AAB, is (3,6).",
+        "values": "",
+        "hints": "First make all possible pairs of length 2, then count how many pairs are there where A repeats twice and then B. Here the correct answer is (3,6)."
+    },
+    {
+        "title": "Quiz: Completing the square (2)",
+        "topicName": "Completing the square",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the equation of a line that has a slope of 2 and a y-intercept of -5?",
+        "answer": "The equation of the line is $y = 2x - 5$",
+        "values": "",
+        "hints": "To find the equation of a line with a given slope and y-intercept, use the formula $y = mx + c$, where: m is the slope, c is the y-intercept"
+    },
+    {
+        "title": "Quiz: Integration - Mixed questions (2)",
+        "topicName": "Mixed Examples – Integration",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "If $5x=75$, what is the value of $x$?",
+        "answer": "The correct answer is 15.",
+        "values": "",
+        "hints": "The given equation is $5x=75$. To solve for $x$, we need to divide each side of the equation by 5. So, $x=\\frac{75}{5}$, which gives $x=15$."
+    },
+    {
+        "title": "Quiz: Acceleration problems",
+        "topicName": "Rate of change",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A sphere has a weight of 680 N and a volume of 1.4 m^3. What is its radius?",
+        "answer": "0.68",
+        "values": "",
+        "hints": "We can find the speed of the sphere by using the formula for the force of gravity: F = mg. Therefore, m = F/g. We then substitute the given values into this formula: m = (680 N)/(10 m/s^2) = 68 kg.\n\nThe radius of the sphere can be calculated using the volume formula for a sphere: V = (4/3)πr^3. Rearranging for r gives us: r = ((3V)/(4π))^(1/3). Substituting the given volume into this equation gives us r = 0.68 m.\n\nTherefore, the radius of the sphere is 0.68 m."
+    },
+    {
+        "title": "Quiz: Calculating with roots, and with integer and fractional indices",
+        "topicName": "Simplifying terms with negative powers",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "The circumference of a globe is given as 94.2 cm. Find the diameter of the globe.",
+        "answer": "The diameter of the globe is 30 cm.",
+        "values": "",
+        "hints": "You can use the formula for the circumference of a circle $C = pi * D$ where $C$ is the circumference, $D$ is the diameter, and $pi$ is approximately 3.14. Given that the globe's circumference is 94.2cm, you can solve for $D$ by rearranging the formula as $D = C/pi$."
+    },
+    {
+        "title": "Quiz: Reflection of functions",
+        "topicName": "Quiz: Translations and reflections of functions",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Find the area of a triangle with a base of 15 units and a height of 6.5 units.",
+        "answer": "The area of the triangle is 48.75 square units.",
+        "values": "",
+        "hints": "To find the area of a triangle, use the formula $\\frac{1}{2} \\times \\text{base} \\times \\text{height}$. The base of the triangle is 15 units and the height is 6.5 units."
+    },
+    {
+        "title": "Quiz: Multiplying indices (2)",
+        "topicName": "Multiplication rules for indices",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "What is the cost of a cell phone plan that charges $30 per gigabyte of data and has an $18 monthly fee, if 5 gigabytes of data are used?",
+        "answer": "The function $f(x) = 30x + 18$ represents the cost of a monthly cell phone plan that charges $30 per gigabyte of data and an $18 monthly fee.",
+        "values": "",
+        "hints": "To find the cost of the cell phone plan for any amount of data, you just need to multiply the number of gigabytes by $30 and then add $18."
+    },
+    {
+        "title": "Quiz: Using the Phi function with the standard normal distribution",
+        "topicName": "02 The standard normal distribution Z~N(0,1) - Using tables or calculator",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Alex and his sister ate 12 cookies. The jar started with 40 cookies. His mother ate some cookies and his father ate the last 7 cookies. How many cookies did his mother eat?",
+        "answer": "28",
+        "values": "",
+        "hints": "First, find the total number of cookies that Alex and his sister ate. Then subtract this from the total number of cookies in the jar. Finally, find the number of cookies that his mother ate by subtracting the number of cookies that his father ate from this number."
+    },
+    {
+        "title": "Quiz: Reflection of functions",
+        "topicName": "Quiz: Translations and reflections of functions",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Solve the equation for x: -12x = -8",
+        "answer": "The correct answer is -2",
+        "values": "",
+        "hints": "To solve this equation, simplify the equation first by dividing each side by 2. The equation becomes -6x = -4. Then divide both sides of the equation by -6. The solution for the variable x is x = -4 / -6 = 2/3. Then convert 2/3 into decimal. So, the answer is x = 0.66"
+    },
+    {
+        "title": "Quiz: Using y = mx + c",
+        "topicName": "Equation of a straight line: y=mx+c",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "A car moves from A to B with a distance of $10 km$ and then moves from B to C with a distance of $20 km$. How long is the total distance the car has traveled?",
+        "answer": "30",
+        "values": "",
+        "hints": "To find the total distance, add the distance of all three sides. The distance of AB is 10, the distance of BC is 20, so the total distance will be $30 km$."
+    },
+    {
+        "title": "Quiz: Multiplying indices (2)",
+        "topicName": "Multiplication rules for indices",
+        "answerType": "Open text",
+        "mmr": "1800",
+        "question": "Find the length of the hypotenuse of a right-angled triangle whose other two sides measure 6 units and 8 units.",
+        "answer": "The correct answer is 10.",
+        "values": "",
+        "hints": "To solve this, you need to apply the Pythagorean theorem, which states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. Here, you need to find the length of the hypotenuse given the lengths of the other two sides."
+    },
+    {
+        "title": "Quiz: Angles and accelerations from vectors",
+        "topicName": "Quiz: Force and acceleration vectors",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "Given the following two equations: (1) $y = 3x + 5$ and (2) $z = 2y + 7$. If $x = 2$, find the value of $z$.",
+        "answer": "76",
+        "values": "",
+        "hints": "Hint: To find the value of $z$, you simply need to substitute the provided value of $x$ into equation (1), then substitute both $x$ and $y$ into equation (2) and solve for $z$."
+    },
+    {
+        "title": "Quiz: Reflection of functions",
+        "topicName": "Quiz: Translations and reflections of functions",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "Suppose you have a data set: {27, 30, 32, 35, 36, 33, 32, 31, 33, 34}. What is the mean of this data set?",
+        "answer": "The mean of the data set is 32.",
+        "values": "",
+        "hints": "To find the mean (average) of a data set, you add up all the numbers in the set and then divide by the number of items in the set. For this data set, add up all the numbers and divide by the number of items. The answer will be the mean of the data set."
+    },
+    {
+        "title": "Quiz: Factorising Quadratic Trinomials by Inspection",
+        "topicName": "Factorising quadratic expressions",
+        "answerType": "Open text",
+        "mmr": "1200",
+        "question": "The areas of two rectangles are equivalent. One rectangle has a length of $l_1$ and a width of $w_1$. The other rectangle has a length of $l_2$ and a width of $w_2$. Write an equation that represents this information.",
+        "answer": "{\"answer\": \"A_1 = A_2\"}",
+        "values": "",
+        "hints": "[\"The areas of the two rectangles are equal because they have the same length and width.\", \"The equation for the area of a rectangle is $A = l \\times w$.\", \"Use this information to write an equation that represents the problem.\"]"
+    },
+    {
+        "title": "Quiz: Volume of a sphere",
+        "topicName": "Surface areas and Volumes of Spheres and Cones",
+        "answerType": "Open text",
+        "mmr": "1500",
+        "question": "A clock runs 3 minutes fast per hour. If you set the clock to the correct time at 12 noon and let it run for 12 hours, what time would the clock show at 12 midnight? \n A. 12:00 \n B. 12:30 \n C. 12:33 \n D. 12:36",
+        "answer": "The correct answer is: D. 36. Reason: Since the clock runs 3 minutes fast per hour, in an hour it would show 63 minutes instead of 60 minutes. Therefore, in 12 hours it would show: 12 hours * (63 minutes/hour) = 756 minutes, which is equal to 12 hours and 36 minutes.",
+        "values": "",
+        "hints": "Hint: The clock runs 3 minutes fast per hour. So, in one hour under normal circumstances, where the clock should show 60 minutes, this clock will show 63 minutes. What will it show in 12 hours?"
+    }
+]

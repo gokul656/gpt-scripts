@@ -1,0 +1,35 @@
+{
+    "model": "gpt-4-0613",
+    "functions": [
+        {
+            "name": "format-variant",
+            "type": "object",
+            "description": "As an AI, generate the similar question as given question in latex format. To ensure correct rendering of mathematical expressions using the KaTeX library, please enclose all mathematical expressions between '$ $'. Use double backslashes (\\) instead of a single backslash (\\) in KaTeX expressions. For example, the format should be: $u = 10\\frac{m}{s}$",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "question": {
+                        "type": "string",
+                        "description": "Give me a similar question without repetation. if image exist convert into url"
+                    },
+                    "correctAnswer": {
+                        "type": "string",
+                        "description": "Give me a correct answer for a question. if image exist convert into url"
+                    },
+                    "hints": {
+                        "type": "string",
+                        "description": "provide me some hints to solve the given question. if image exist convert into url"
+                    }
+                },
+                "required": [
+                    "question",
+                    "correctAnswer",
+                    "hints"
+                ]
+            }
+        }
+    ],
+    "function_call": {
+        "name": "format-variant"
+    }
+}
