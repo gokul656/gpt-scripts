@@ -3,10 +3,10 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"errors"
 	"flag"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 	"os"
 	"sync"
@@ -19,8 +19,8 @@ var (
 )
 
 const (
-	startRange = 10
-	endRange   = int(startRange + 5)
+	startRange = 1
+	endRange   = int(startRange + 1)
 	url        = "https://api.openai.com/v1/chat/completions"
 	model      = "gpt-4-0613"
 	outfile    = "output.json"
@@ -42,12 +42,42 @@ func main() {
 		if r := recover(); r != nil {
 			fmt.Println("Recovering...")
 		}
-		saveToOutfile(outfile)
+		saveToFile(outfile)
 	}()
 
-	inputFiles, err := readInputFile(infile)
+	filteredQuestions, err := getSampleQuestions()
 	if err != nil {
 		panic(err)
+	}
+
+	fmt.Println("Total questions:", len(filteredQuestions))
+
+	responseChannel := make(chan *Response[*Question], 1024)
+	createOutfile(outfile)
+
+	wg := &sync.WaitGroup{}
+	for i := startRange; i < endRange; i++ {
+		wg.Add(1)
+		question := filteredQuestions[i]
+		go createRequest(i, &question, responseChannel, wg)
+	}
+
+	wg.Wait()
+	close(responseChannel)
+
+	for response := range responseChannel {
+		if response.err != nil {
+			fmt.Println(response.err)
+		} else {
+			questionList = append(questionList, *response.out)
+		}
+	}
+}
+
+func getSampleQuestions() ([]Question, error) {
+	inputFiles, err := readFile(infile)
+	if err != nil {
+		return nil, err
 	}
 
 	filteredQuestions := []Question{}
@@ -57,24 +87,7 @@ func main() {
 		}
 	}
 
-	fmt.Println("Total questions:", len(filteredQuestions))
-
-	outchan := make(chan *Question, 10*1024)
-	createOutfile(outfile)
-
-	wg := &sync.WaitGroup{}
-	for i := startRange; i < endRange; i++ {
-		question := filteredQuestions[i]
-		wg.Add(1)
-		go createRequest(i, question, outchan, wg)
-	}
-
-	wg.Wait()
-	close(outchan)
-
-	for newQuestion := range outchan {
-		questionList = append(questionList, *newQuestion)
-	}
+	return filteredQuestions, nil
 }
 
 func createOutfile(outfile string) error {
@@ -93,38 +106,37 @@ func createOutfile(outfile string) error {
 	return nil
 }
 
-func readInputFile(infile string) ([]Question, error) {
+func readFile(infile string) ([]Question, error) {
 	questions := []Question{}
 	buffer, err := os.ReadFile(infile)
 	if err != nil {
-		fmt.Println(err)
 		return nil, err
 	}
 
 	err = json.Unmarshal(buffer, &questions)
 	if err != nil {
-		fmt.Println(err)
 		return nil, err
 	}
 
 	return questions, nil
 }
 
-func createRequest(count int, question Question, outchan chan *Question, wg *sync.WaitGroup) {
+func createRequest(count int, question *Question, output chan *Response[*Question], wg *sync.WaitGroup) {
+	defer wg.Done()
 	defer func() {
 		if r := recover(); r != nil {
 			fmt.Println("Recovering go routine...")
 		}
 	}()
-	defer wg.Done()
 
 	fmt.Println("Fetching for question #", count)
-	message := ""
 
+	message := question.Question
 	messages := make(map[string]string)
 	messages["content"] = fmt.Sprintf("%s Read the JSON string and generate different questions as the example question provided. Return the output in latex format", message)
 	messages["role"] = "system"
 
+	// function contains too make dynamic fields so don't create struct
 	function := make(map[string]interface{}, 1024)
 	function["model"] = model
 	function["messages"] = []interface{}{messages}
@@ -132,19 +144,22 @@ func createRequest(count int, question Question, outchan chan *Question, wg *syn
 	file, _ := os.ReadFile("function.json")
 	err := json.Unmarshal(file, &function)
 	if err != nil {
-		fmt.Println(err.Error())
+		output <- buildError("unable to unmarhsal", err)
+		return
 	}
 
 	var byteBuffer bytes.Buffer
 	err = json.NewEncoder(&byteBuffer).Encode(function)
 	if err != nil {
-		fmt.Println("[ERROR]", err)
+		output <- buildError("unable to encode", err)
+		return
 	}
 
-	authToken := fmt.Sprintf("Bearer %s", token)
+	authToken := fmt.Sprintf("Bearer %s", *token)
 	request, err := http.NewRequest(http.MethodPost, url, &byteBuffer)
 	if err != nil {
-		log.Println("HTTP ERROR", err)
+		output <- buildError("unable to create request", err)
+		return
 	}
 
 	// setting auth headers
@@ -156,7 +171,8 @@ func createRequest(count int, question Question, outchan chan *Question, wg *syn
 	client := &http.Client{}
 	response, err := client.Do(request)
 	if err != nil {
-		panic(err)
+		output <- buildError("http error", err)
+		return
 	}
 
 	defer response.Body.Close()
@@ -164,14 +180,21 @@ func createRequest(count int, question Question, outchan chan *Question, wg *syn
 	responseBuffer, _ := io.ReadAll(response.Body)
 
 	structResponse := &OpenApiResponse{}
-	_ = json.Unmarshal(responseBuffer, structResponse)
+	err = json.Unmarshal(responseBuffer, structResponse)
+	if err != nil {
+		output <- buildError("unable to unmarhsal", err)
+		return
+	} else if structResponse.Error != nil {
+		output <- buildError("api error", errors.New(structResponse.Error.Message))
+		return
+	}
 
 	if len(structResponse.Choices) > 0 {
 		questionBuffer := []byte(structResponse.Choices[0].Message.FuncCall.Arguments)
 		generatedQuestion := &GeneratedQuestion{}
 		err = json.Unmarshal(questionBuffer, generatedQuestion)
 		if err != nil {
-			fmt.Println("ERROR parsing", err)
+			output <- buildError("unable to unmarhsal", err)
 			return
 		}
 
@@ -179,26 +202,49 @@ func createRequest(count int, question Question, outchan chan *Question, wg *syn
 		question.Question = generatedQuestion.Question
 		question.Hints = generatedQuestion.Hints
 
-		outchan <- &question
+		output <- &Response[*Question]{
+			out: question,
+			err: nil,
+		}
+
+		return
+	}
+
+	output <- buildError("choices is empty", errors.New("invalid response"))
+}
+
+func buildError(prefix string, err error) *Response[*Question] {
+	return &Response[*Question]{
+		out: nil,
+		err: err,
 	}
 }
 
-func saveToOutfile(outfile string) {
-	oldQuestions, err := readInputFile(outfile)
+func saveToFile(outfile string) {
+	oldQuestions, err := readFile(outfile)
 	if err != nil {
-		fmt.Println("Unable to read old outfile")
 		oldQuestions = []Question{}
 	}
 
 	oldQuestions = append(oldQuestions, questionList...)
 
 	byteBuffer, _ := json.Marshal(oldQuestions)
+	export(byteBuffer, outfile)
+}
+
+func export(byteBuffer []byte, outfile string) error {
 	file, err := os.OpenFile(outfile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0644)
 	if err != nil {
 		fmt.Println("Error opening file:", err)
-		return
+		return err
 	}
 	defer file.Close()
 
 	file.Write(byteBuffer)
+	return nil
+}
+
+type Response[T any] struct {
+	out T
+	err error
 }

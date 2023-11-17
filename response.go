@@ -1,7 +1,24 @@
 package main
 
 type OpenApiResponse struct {
-	Choices []Choice `json:"choices"`
+	Choices []Choice      `json:"choices"`
+	Error   *OpenApiError `json:"error"`
+}
+
+// {
+//     "error": {
+//         "message": "You exceeded your current quota, please check your plan and billing details.",
+//         "type": "insufficient_quota",
+//         "param": null,
+//         "code": "insufficient_quota"
+//     }
+// }
+
+type OpenApiError struct {
+	Message string `json:"message"`
+	Type    string `json:"type"`
+	Param   any    `json:"param"`
+	Code    string `json:"code"`
 }
 
 type Choice struct {
@@ -19,6 +36,16 @@ type FunctionCall struct {
 
 type Output struct {
 	Questions []Question
+}
+
+type Messages struct {
+	Role    string `json:"role"`
+	Content string `json:"content"`
+}
+
+type Function struct {
+	Model    string        `json:"model"`
+	Messages []interface{} `json:"messages"`
 }
 
 type Question struct {
