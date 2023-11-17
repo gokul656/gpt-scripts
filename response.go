@@ -1,18 +1,14 @@
 package main
 
+type Response[T any] struct {
+	out T
+	err error
+}
+
 type OpenApiResponse struct {
 	Choices []Choice      `json:"choices"`
 	Error   *OpenApiError `json:"error"`
 }
-
-// {
-//     "error": {
-//         "message": "You exceeded your current quota, please check your plan and billing details.",
-//         "type": "insufficient_quota",
-//         "param": null,
-//         "code": "insufficient_quota"
-//     }
-// }
 
 type OpenApiError struct {
 	Message string `json:"message"`

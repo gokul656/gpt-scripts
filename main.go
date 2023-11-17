@@ -243,8 +243,3 @@ func export(byteBuffer []byte, outfile string) error {
 	file.Write(byteBuffer)
 	return nil
 }
-
-type Response[T any] struct {
-	out T
-	err error
-}
